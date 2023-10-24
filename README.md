@@ -1,2 +1,2 @@
 # akbankmakinaogrenmesibootcamp
-Bootcamp Porjesi/Büşra Sevim TÜRKER
+Bootcamp Projesi/Büşra Sevim TÜRKER
